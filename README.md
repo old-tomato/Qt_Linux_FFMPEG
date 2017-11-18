@@ -1,0 +1,2 @@
+# Qt_Linux_FFMPEG
+在linux的QT上通过ffmpeg实现一个播放器
